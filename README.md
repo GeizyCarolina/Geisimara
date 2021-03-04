@@ -15,4 +15,4 @@ My name is Geisimara, I am a student of Information Systems, currently in the 4t
 
  Follow me
  
- ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/geisimara-paulo/](https://www.linkedin.com/in/geisimara-paulo/))  ![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=[https://www.instagram.com/geizy_carollina/](https://www.instagram.com/geizy_carollina/))
+ [ ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geisimara-paulo/)](https://www.linkedin.com/in/geisimara-paulo/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/geizy_carollina/)](https://www.instagram.com/geizy_carollina/) 
