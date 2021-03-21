@@ -1,6 +1,6 @@
 # Hi !👋
 
-My name is Geisimara, I am a student of Information Systems, currently in the 4th period, I continue in search of the logic of life.
+My name is Geisimara, I am a student of Information Systems, currently in the 4th period, I follow in search of the logic of life.
 
 ### 🌈 O conhecimento é um tesouro, mas a prática é a chave para alcançá-lo.🍃
   
