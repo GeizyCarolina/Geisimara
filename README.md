@@ -1,6 +1,6 @@
-# Hi !👋
 
-My name is Geisimara, I am a student of Information Systems, currently in the 4th period, I follow in search of the logic of life.
+
+## Hi.. eu sou a Geisimara Carolina, estudante de Sistemas de Informação! I follow in search of the logic of life.
 
 ### 🌈 O conhecimento é um tesouro, mas a prática é a chave para alcançá-lo.🍃
   
@@ -16,7 +16,7 @@ My name is Geisimara, I am a student of Information Systems, currently in the 4t
 
 <div align="center">
   <a href="https://github.com/GeizyCarolina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeizyCarolina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </br>      </br>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeizyCarolina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeizyCarolina&layout=compact&langs_count=7&theme=dracula"/>
 </div></br>
 
