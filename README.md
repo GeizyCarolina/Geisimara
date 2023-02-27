@@ -1,6 +1,6 @@
 
 
-## Hi.. eu sou a Geisimara Carolina, estudante de Sistemas de Informação! I follow in search of the logic of life.
+## Hi.. eu sou a Geisimara Carolina, estudante de Sistemas de Informação!
 
 ### 🌈 O conhecimento é um tesouro, mas a prática é a chave para alcançá-lo.🍃
   
